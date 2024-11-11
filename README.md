@@ -1,14 +1,14 @@
 # Inter-Process Communication System (IPC)
 
 ## Project Structure
- ───Interprocess Communication System
-    ├── ipc_message_queue.c
-    ├── ipc_message_queue.h
-    ├── ipc_project
-    ├── main.c
-    ├── message_receiver.c
-    ├── message_sender.c
-    └── README.md
+ ───Interprocess Communication System  
+    ├── ipc_message_queue.c  
+    ├── ipc_message_queue.h  
+    ├── ipc_project  
+    ├── main.c  
+    ├── message_receiver.c  
+    ├── message_sender.c  
+    └── README.md  
 ## Files and Components
 
 - **ipc_message_queue.h**: Contains the constant definitions and functionsfor the message-passing mechanism.
